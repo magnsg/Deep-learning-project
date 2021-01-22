@@ -1,2 +1,2 @@
-Open the file in the Code folder, Project 2.ipynb in Jupiter Notebook.
+Open the Jupyter Notebook file Project 2.ipynb located in the Code folder.
 There is also a pdf copy of the notebook.
